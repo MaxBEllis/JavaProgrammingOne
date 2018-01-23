@@ -2,7 +2,7 @@ package Chapter5;
 
 import java.util.Scanner;
 
-/*
+/**
  * Program is a voting system for the user
  * 
  * @author Max Ellis

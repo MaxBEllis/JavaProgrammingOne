@@ -2,7 +2,7 @@ package Chapter6;
 
 import java.util.Scanner;
 
-/*
+/**
  * This program will check if an entered string is a vaild password
  * 
  * @author Max Ellis
@@ -31,6 +31,7 @@ public class C6_18 {
     }
 
     /**
+     * Method to check conditions for a valid password
      *
      * @param password is the password the user enters
      * @return true or false
@@ -48,6 +49,7 @@ public class C6_18 {
     }
 
     /**
+     * method is to check that password is at least 2 digits
      *
      * @param password makes sure the string is at least 2 digits
      * @return counter number if it's greater than 2
@@ -64,6 +66,7 @@ public class C6_18 {
     }
 
     /**
+     * method to check that password is only letters and digits
      *
      * @param password makes sure only letters are within the string
      * @return true or false
@@ -78,6 +81,7 @@ public class C6_18 {
     }
 
     /**
+     * method to check that the password is of valid length
      *
      * @param password makes sure the length is seven or greater
      * @return the password length
