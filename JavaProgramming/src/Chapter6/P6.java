@@ -2,7 +2,7 @@ package Chapter6;
 
 import java.util.Scanner;
 
-/*
+/**
  * Program to display the conversion of Euors, Yen, or Dollars to each other
  * 
  * @author Max Ellis
@@ -57,6 +57,7 @@ public class P6 {
     }
 
     /**
+     * method to convert the yen and dollars and euros
      *
      * @param d is named for dollars
      * @param c is named for conversions

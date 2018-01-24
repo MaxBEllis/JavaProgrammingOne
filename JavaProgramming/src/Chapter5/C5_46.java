@@ -2,7 +2,7 @@ package Chapter5;
 
 import java.util.Scanner;
 
-/*
+/**
  * Program to show the entered string backwards
  * 
  * @author Max Ellis

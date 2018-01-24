@@ -2,7 +2,7 @@ package Chapter5;
 
 import java.util.Scanner;
 
-/*
+/**
  * Progam made to play Rock, Paper, Scissors with the user
  * 
  * @author Max Ellis
