@@ -38,7 +38,7 @@ public class C7_26 {
     /**
      * Method to compare the two length of each string
      *
-     * @param arrayList
+     * @param arrayList stores the elements of the array
      */
     public static void filllist(int[] arrayList) {
         for (int i = 0; i < arrayList.length; i++) {
@@ -47,10 +47,10 @@ public class C7_26 {
     }
 
     /**
-     * Method to
+     * Method to determine whether or not list1 equals list2
      *
-     * @param list1
-     * @param list2
+     * @param list1 first entered list from the user
+     * @param list2 second entered list from the user
      * @return true or false
      */
     public static boolean equals(int[] list1, int[] list2) {
